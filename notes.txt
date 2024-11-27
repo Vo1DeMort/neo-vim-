@@ -1,0 +1,17 @@
+pkgs i might install in  future
+  https://github.com/yetone/avante.nvim
+
+  coding assitant
+    chatgpt 
+    codeium 
+    "https://github.com/Exafunction/codeium.vim"
+      {
+        'Exafunction/codeium.vim',
+        event = 'BufEnter'
+      }
+
+    gen nvim
+
+
+# toggle hiddenfile - shift h 
+# haven't add to github
