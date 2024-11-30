@@ -7,11 +7,15 @@ return {
     opts = {},
   },
 
+  { "rebelot/kanagawa.nvim" },
+  { "sainnhe/everforest" },
+
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "tokyonight-moon",
-      --colorscheme = "darkblue",
+      --colorscheme = "tokyonight-moon",
+      colorscheme = "kanagawa-wave",
+      --colorscheme = "everforest"
     },
   },
 }

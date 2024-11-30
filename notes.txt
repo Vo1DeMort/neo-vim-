@@ -15,3 +15,6 @@ pkgs i might install in  future
 
 # toggle hiddenfile - shift h 
 # haven't add to github
+
+# a bit of keymaps
+  shit K - hover
