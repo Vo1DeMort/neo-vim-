@@ -1,22 +1,17 @@
 return {
 
-  {
-    "folke/tokyonight.nvim",
-    lazy = false,
-    priority = 1000,
-    opts = {},
-  },
+  { "folke/tokyonight.nvim" },
 
-  { "ellisonleao/gruvbox.nvim", priority = 1000, config = true, opts = ... },
+  { "ellisonleao/gruvbox.nvim" },
+
+  { "rebelot/kanagawa.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "tokyonight-moon",
-      colorscheme = "gruvbox",
+      --colorscheme = "gruvbox",
+      colorscheme = "kanagawa",
     },
   },
 }
-
--- only two theme ,no more , no means no
--- stand by the statement
