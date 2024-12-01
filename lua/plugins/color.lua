@@ -7,15 +7,16 @@ return {
     opts = {},
   },
 
-  { "rebelot/kanagawa.nvim" },
-  { "sainnhe/everforest" },
+  { "ellisonleao/gruvbox.nvim", priority = 1000, config = true, opts = ... },
 
   {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "tokyonight-moon",
-      colorscheme = "kanagawa-wave",
-      --colorscheme = "everforest"
+      colorscheme = "gruvbox",
     },
   },
 }
+
+-- only two theme ,no more , no means no
+-- stand by the statement
