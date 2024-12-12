@@ -2,16 +2,14 @@ return {
 
   { "folke/tokyonight.nvim" },
 
-  { "ellisonleao/gruvbox.nvim" },
+  {'loctvl842/monokai-pro.nvim'},
 
-  { "rebelot/kanagawa.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "tokyonight-moon",
-      --colorscheme = "gruvbox",
-      colorscheme = "kanagawa",
+      colorscheme = "monokai-pro-spectrum"
     },
   },
 }
