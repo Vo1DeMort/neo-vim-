@@ -9,7 +9,7 @@ return {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "tokyonight-moon",
-      colorscheme = "monokai-pro-spectrum"
+      colorscheme = "monokai-pro-classic"
     },
   },
 }
